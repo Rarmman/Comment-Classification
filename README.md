@@ -5,3 +5,5 @@ This project implements a multi-class text classification pipeline using ensembl
 Feature engineering was done using CountVectorizer (vocabulary size: 5000 tokens) and was optimized via hyperparameter tuning, reducing classification error by 11% over single model baselines.
 
 Macro-F1 score of 0.834 was achieved on real world dataset, outperforming a logistic regression baseline (Macro-F1: 0.741) by 9.3 percentage points.
+
+Email ID: <!--email_off-->24f3001667@ds.study.iitm.ac.in<!--/email_off-->
